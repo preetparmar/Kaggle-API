@@ -1,5 +1,6 @@
 # Kagge-API
- An API for Kaggle
+ An API to fetch data from Kaggle Competitions
 
 
 Usage ⚙️
+- :gear:
