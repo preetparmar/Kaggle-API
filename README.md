@@ -4,4 +4,4 @@
 
 Usage ⚙️
 - :gear:
-:simple_smile:
+- :simple_smile:
